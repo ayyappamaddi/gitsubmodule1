@@ -1,0 +1,3 @@
+[submodule "src/app/micromodule"]
+	path = src/app/micromodule
+	url = https://github.com/ayyappamaddi/micromodule.git
